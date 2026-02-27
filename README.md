@@ -1,5 +1,8 @@
 # BackoffRetry
 
+> **Deprecated** — This package has been merged into [`resiliency`](https://github.com/yoavgeva/resiliency).
+> Use `Resiliency.BackoffRetry` instead. This repo is archived and will not receive further updates.
+
 [![Hex](https://img.shields.io/hexpm/v/backoff_retry.svg)](https://hex.pm/packages/backoff_retry)
 [![CI](https://github.com/yoavgeva/backoff_retry/actions/workflows/ci.yml/badge.svg)](https://github.com/yoavgeva/backoff_retry/actions/workflows/ci.yml)
 
